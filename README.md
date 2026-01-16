@@ -1,6 +1,6 @@
 # Modeling-Defenders-Dilemma
 
-The live R Shiny App can be access here: https://patrick-lefler.shinyapps.io/rShiny_Defenders_Dilemma/
+The live R Shiny App can be accessed here: https://patrick-lefler.shinyapps.io/rShiny_Defenders_Dilemma/
 
 ## 1. Historical Context
 The mathematical foundation of the "Defender's Dilemma" rests upon a problem posed in the 17th century, known as the **Gambler's Ruin**. The concept originated from correspondence between Blaise Pascal and Pierre de Fermat in 1656, arguably marking the birth of modern probability theory. They sought to solve the "Problem of Points": how to fairly divide the stakes of an unfinished game of chance between two players with uneven scores.
